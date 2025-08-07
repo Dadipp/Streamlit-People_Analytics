@@ -2,6 +2,7 @@
 
 Aplikasi web interaktif berbasis **Streamlit** yang menganalisis dan memprediksi **kepuasan kerja karyawan** berdasarkan berbagai faktor seperti stres, aktivitas fisik, work-life balance, dan lainnya.
 
+🔗 Coba aplikasinya di sini: https://app-people-analytics.streamlit.app
 ---
 
 ## 🎯 Tujuan Proyek
