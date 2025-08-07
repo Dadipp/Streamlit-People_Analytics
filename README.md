@@ -2,7 +2,8 @@
 
 Aplikasi web interaktif berbasis **Streamlit** yang menganalisis dan memprediksi **kepuasan kerja karyawan** berdasarkan berbagai faktor seperti stres, aktivitas fisik, work-life balance, dan lainnya.
 
-🔗 Coba aplikasinya di sini: https://app-people-analytics.streamlit.app
+👉 [**Buka Aplikasi**](https://app-people-analytics.streamlit.app)
+
 ---
 
 ## 🎯 Tujuan Proyek
@@ -14,6 +15,7 @@ Memberikan insight berbasis data terkait kesejahteraan dan kepuasan karyawan, se
 ## 🧩 Fitur Aplikasi
 
 ### 📊 Dashboard Insight
+
 - Filter berdasarkan **departemen** dan **usia**
 - Visualisasi:
   - Distribusi skor kepuasan kerja (histogram)
@@ -23,25 +25,24 @@ Memberikan insight berbasis data terkait kesejahteraan dan kepuasan karyawan, se
   - Heatmap korelasi antar fitur numerik
 
 ### 🔮 Prediksi Karyawan Baru
+
 - Form input untuk memasukkan atribut karyawan baru
-- Menggunakan model machine learning untuk memprediksi tingkat kepuasan kerja (skala 1–5)
+- Prediksi tingkat kepuasan kerja menggunakan model machine learning (skala 1–5)
 
 ---
 
 ## 💡 Insight
 
-Dashboard ini memungkinkan tim HR untuk:
+Dashboard ini membantu tim HR untuk:
 
-- Mengidentifikasi faktor-faktor yang paling mempengaruhi kepuasan kerja
-- Mendeteksi area atau departemen dengan tingkat stres tinggi
-- Melakukan prediksi tingkat kepuasan kerja dari calon karyawan baru untuk mencegah churn
-- Mengembangkan strategi employee engagement berbasis data
-
+- Mengidentifikasi faktor-faktor utama yang memengaruhi kepuasan kerja  
+- Menemukan area/departemen dengan tingkat stres tinggi  
+- Melakukan prediksi kepuasan kerja dari calon karyawan untuk mengurangi risiko churn  
+- Mengembangkan strategi **employee engagement** berbasis data
 
 ---
 
-
 ## ✍️ Author
 
-Created by **[Dimas Adi Prasetyo]**  
-Bootcamp Project – People Analytics and Satisfaction Modeling
+Created by **Dimas Adi Prasetyo**  
+Bootcamp Project – *People Analytics and Satisfaction Modeling*
